@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:hreflang="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fintech-analytics.com</loc>
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en" />
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa" />
+    <hreflang:link rel="alternate" hreflang="x-default" href="https://fintech-analytics.com/en" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://fintech-analytics.com/en</loc>
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en" />
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://fintech-analytics.com/fa</loc>
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa" />
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://fintech-analytics.com/en/analytics</loc>
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en/analytics" />
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa/analytics" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://fintech-analytics.com/fa/analytics</loc>
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa/analytics" />
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en/analytics" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://fintech-analytics.com/en/shop</loc>
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en/shop" />
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa/shop" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://fintech-analytics.com/fa/shop</loc>
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa/shop" />
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en/shop" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://fintech-analytics.com/en/subscription</loc>
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en/subscription" />
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa/subscription" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fintech-analytics.com/fa/subscription</loc>
+    <hreflang:link rel="alternate" hreflang="fa" href="https://fintech-analytics.com/fa/subscription" />
+    <hreflang:link rel="alternate" hreflang="en" href="https://fintech-analytics.com/en/subscription" />
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
