@@ -1,0 +1,28 @@
+{
+  "name": "fintech-analytics-marketplace",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next-i18n-router": "^4.4.0",
+    "i18next": "^23.7.6",
+    "react-i18next": "^13.5.0",
+    "axios": "^1.6.5",
+    "recharts": "^2.10.4",
+    "tailwindcss": "^3.3.6",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  }
+}
